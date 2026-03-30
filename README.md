@@ -102,12 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 ## Hash Function
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
