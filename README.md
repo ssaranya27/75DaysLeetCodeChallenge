@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/ssaranya27/75DaysLeetCodeChallenge/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
