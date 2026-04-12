@@ -29,7 +29,6 @@ class Solution {
             curr = nextTemp;
         }
 
-        // Step 3: Merge two halves
         ListNode first = head;
         ListNode second = prev;
 
